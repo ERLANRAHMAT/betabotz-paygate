@@ -220,7 +220,6 @@ npm run test:callback
 ### Level 3: Production Ready
 - [ ] Error handling
 - [ ] Retry mechanism
-- [ ] Rate limiting
 - [ ] Security (HTTPS, validation)
 
 ## 📖 Learn More

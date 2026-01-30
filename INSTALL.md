@@ -149,13 +149,6 @@ Check:
 2. Base URL benar (`https://web.btzpay.my.id`)
 3. Firewall tidak memblok koneksi
 
-### Error: "Rate limit exceeded"
-
-Tunggu 1 menit sebelum mencoba lagi. Rate limits:
-- Create/Cancel: 10 req/minute
-- Callback: 100 req/15 minutes
-- Get Transaction: 60 req/minute
-
 ## 📚 Next Steps
 
 ### 1. Read Documentation
