@@ -1,0 +1,44 @@
+{
+  "name": "betabotz-paygate",
+  "version": "1.0.0",
+  "description": "Official Node.js SDK for Betabotz Paygate - Payment Gateway API",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "node test/run.js",
+    "test:transaction": "node test/transaction.test.js",
+    "test:callback": "node test/callback.test.js",
+    "test:tx": "node test/run.js transaction",
+    "test:cb": "node test/run.js callback"
+  },
+  "keywords": [
+    "betabotz",
+    "paygate",
+    "payment",
+    "gateway",
+    "qris",
+    "payment-gateway",
+    "indonesia",
+    "dana",
+    "gopay",
+    "ovo",
+    "shopeepay"
+  ],
+  "author": "Betabotz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ERLANRAHMAT/betabotz-paygate"
+  },
+  "bugs": {
+    "url": "https://github.com/ERLANRAHMAT/betabotz-paygate/issues"
+  },
+  "homepage": "https://web.btzpay.my.id",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
