@@ -21,7 +21,7 @@ cd betabotz-paygate-sdk
 npm install
 
 # 3. Setup environment
-cp .env.example .env
+cp .env
 nano .env  # Edit dan isi API key Anda
 ```
 
