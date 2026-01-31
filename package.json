@@ -1,6 +1,6 @@
 {
   "name": "betabotz-paygate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official Node.js SDK for Betabotz Paygate - Payment Gateway API",
   "main": "src/index.js",
   "types": "src/index.d.ts",

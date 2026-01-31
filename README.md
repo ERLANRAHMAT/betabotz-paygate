@@ -306,9 +306,9 @@ app.listen(3000, () => {
 
 | Endpoint | Limit | Window |
 |----------|-------|--------|
-| Create/Cancel | 10 requests | 1 minute |
-| Callback | 100 requests | 15 minutes |
-| Get Transaction | 60 requests | 1 minute |
+| Create/Cancel | 10 requests | 1 seconds |
+| Callback | 100 requests | 15 seconds |
+| Get Transaction | 60 requests | 1 seconds |
 
 ## Error Handling
 
